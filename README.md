@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHGITHUBSH
-- 👀 I’m interested in ... Anything about programming
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... programming
+- 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
